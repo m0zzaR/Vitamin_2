@@ -1,15 +1,15 @@
-/* Change the font */
+
 html {
     font-family: "Comic Sans MS", "Comic Sans", Arial, sans-serif;
   }
   
-  /* Make headings purple and in Papyrus font */
+  
   h1, h2 {
     font-family: "Papyrus", cursive;
     color: purple;
   }
   
-  /* Navigation list styling */
+  
   .nav {
     list-style-type: none;
     margin: 0;
@@ -28,13 +28,13 @@ html {
     text-decoration: none;
   }
   
-  /* Hover effect for links */
+ 
   .nav li a:hover {
     background-color: #AAA;
     padding: 10px;
   }
   
-  /* Footer styling */
+
   footer {
     background-color: #DDD;
     color: #555;
